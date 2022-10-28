@@ -1,0 +1,15 @@
+C:\Users\crami\source\repos\OpenBootcamp\bin\Debug\net6.0\OpenBootcamp.exe
+C:\Users\crami\source\repos\OpenBootcamp\bin\Debug\net6.0\OpenBootcamp.deps.json
+C:\Users\crami\source\repos\OpenBootcamp\bin\Debug\net6.0\OpenBootcamp.runtimeconfig.json
+C:\Users\crami\source\repos\OpenBootcamp\bin\Debug\net6.0\OpenBootcamp.dll
+C:\Users\crami\source\repos\OpenBootcamp\bin\Debug\net6.0\OpenBootcamp.pdb
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.csproj.AssemblyReference.cache
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.AssemblyInfoInputs.cache
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.AssemblyInfo.cs
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.dll
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\refint\OpenBootcamp.dll
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.pdb
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\OpenBootcamp.genruntimeconfig.cache
+C:\Users\crami\source\repos\OpenBootcamp\obj\Debug\net6.0\ref\OpenBootcamp.dll
