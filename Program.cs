@@ -144,6 +144,7 @@ namespace OpenBootcamp
             //Variables Escribe un programa que reciba datos de una persona y genera un mensaje, 
             //usa una variable para cada dato y otra para el mensaje. Ej: nombre, apellido, edad, sabe programar, etc.
 
+            /*
             Console.WriteLine("Introduce tu nombre: ");
             string nombre = Console.ReadLine();
 
@@ -158,7 +159,7 @@ namespace OpenBootcamp
 
 
             Console.WriteLine("Hola,mi nombre es: " + nombre + " " + apellido + "." + "Tengo" + " " + edad + " " + "años." + "Estudio: " + estudios);
-
+            */
             //EJERCICIO 2
 
             //Tipos Usando los tipos de variables más adecuados, describe los objetos siguientes:
@@ -170,12 +171,24 @@ namespace OpenBootcamp
             //EJERCICIO 3
 
             //Operadores Determina los operadores para verificar las siguientes condiciones:
-            //-Un número es mayor o igual a 18
-            //-Un char es ‘a’
-            //-Se cumplen dos conciones a la vez (ambas verdaderas)
-            //-Se cumple una de dos condiciones a la vez (una true y otra false)
-
             //Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
+
+            //-Un número es mayor o igual a 18
+            int numero1 = 5;
+            int numero2 = 10;
+
+            Console.WriteLine("El numero es mayor o igual a 18? " + (numero1 >= numero2));
+
+            //-Un char es ‘a’
+            char a = 'a';
+            Console.Write("char: " + a);
+
+            //-Se cumplen dos condiciones a la vez (ambas verdaderas)
+            Console.WriteLine(" True true: " + (numero1 < 15 && numero2 < 15));
+
+            //-Se cumple una de dos condiciones a la vez (una true y otra false)
+            Console.WriteLine(" True false: " + (numero1 < 15 && numero2 > 15));
+            Console.WriteLine("True false: " + (numero1 < 9 && numero2 < 9));
 
 
 
