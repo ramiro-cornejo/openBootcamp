@@ -4,6 +4,19 @@ namespace OpenBootcamp
 {
     internal class Program
     {
+        // obj coche
+        int puertas = 5;
+        int ruedas = 4;
+        string marca = "Ford";
+        string itv = "Vigente";
+
+        // obj mesa peso, largo, material, color
+        int peso = 8;
+        int largo = 3;
+        string material = "Madera";
+        string color = "Blanca";
+
+
         static void Main(string[] args)
         {
             /*
@@ -144,7 +157,8 @@ namespace OpenBootcamp
             //Variables Escribe un programa que reciba datos de una persona y genera un mensaje, 
             //usa una variable para cada dato y otra para el mensaje. Ej: nombre, apellido, edad, sabe programar, etc.
 
-            /*
+            Console.WriteLine("Ejercicio 1 Variables");
+
             Console.WriteLine("Introduce tu nombre: ");
             string nombre = Console.ReadLine();
 
@@ -159,19 +173,36 @@ namespace OpenBootcamp
 
 
             Console.WriteLine("Hola,mi nombre es: " + nombre + " " + apellido + "." + "Tengo" + " " + edad + " " + "años." + "Estudio: " + estudios);
-            */
+
+
             //EJERCICIO 2
 
             //Tipos Usando los tipos de variables más adecuados, describe los objetos siguientes:
             //-Coche: puertas, ruedas, marca, ITV vigente
             //-Mesa: peso, largo, material, color
-
             //Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
+
+            Console.WriteLine("Ejercicio 2 Objetos");
+
+            // Objeto utilizando program para el ejemplo Coche/Mesa
+            Program myObj = new Program();
+            Console.WriteLine(myObj.puertas);
+            Console.WriteLine(myObj.ruedas);
+            Console.WriteLine(myObj.marca);
+            Console.WriteLine(myObj.itv);
+
+            Program myObj2 = new Program();
+            Console.WriteLine(myObj2.peso);
+            Console.WriteLine(myObj2.largo);
+            Console.WriteLine(myObj2.material);
+            Console.WriteLine(myObj2.color);
 
             //EJERCICIO 3
 
             //Operadores Determina los operadores para verificar las siguientes condiciones:
             //Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
+            
+            Console.WriteLine("Ejercicio 3 Operadores");
 
             //-Un número es mayor o igual a 18
             int numero1 = 5;
@@ -189,7 +220,7 @@ namespace OpenBootcamp
             //-Se cumple una de dos condiciones a la vez (una true y otra false)
             Console.WriteLine(" True false: " + (numero1 < 15 && numero2 > 15));
             Console.WriteLine("True false: " + (numero1 < 9 && numero2 < 9));
-
+            
 
 
 
