@@ -112,6 +112,7 @@ namespace OpenBootcamp
             Console.WriteLine("j menor? " + (j < k));
             */
 
+            /*
             // LOGICOS && || !
 
             int a = 9;
@@ -135,6 +136,49 @@ namespace OpenBootcamp
 
             Console.WriteLine("True: " + !(a < 10));
             Console.WriteLine("False: " + !(a > 10));
+            */
+
+
+            //EJERCICIO 1
+
+            //Variables Escribe un programa que reciba datos de una persona y genera un mensaje, 
+            //usa una variable para cada dato y otra para el mensaje. Ej: nombre, apellido, edad, sabe programar, etc.
+
+            Console.WriteLine("Introduce tu nombre: ");
+            string nombre = Console.ReadLine();
+
+            Console.WriteLine("Introduce tu apellido: ");
+            string apellido = Console.ReadLine();
+
+            Console.WriteLine("Introduce tu edad: ");
+            int edad = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Introduce tus estudios: ");
+            string estudios = Console.ReadLine();
+
+
+            Console.WriteLine("Hola,mi nombre es: " + nombre + " " + apellido + "." + "Tengo" + " " + edad + " " + "años." + "Estudio: " + estudios);
+
+            //EJERCICIO 2
+
+            //Tipos Usando los tipos de variables más adecuados, describe los objetos siguientes:
+            //-Coche: puertas, ruedas, marca, ITV vigente
+            //-Mesa: peso, largo, material, color
+
+            //Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
+
+            //EJERCICIO 3
+
+            //Operadores Determina los operadores para verificar las siguientes condiciones:
+            //-Un número es mayor o igual a 18
+            //-Un char es ‘a’
+            //-Se cumplen dos conciones a la vez (ambas verdaderas)
+            //-Se cumple una de dos condiciones a la vez (una true y otra false)
+
+            //Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
+
+
+
 
         }
     }
