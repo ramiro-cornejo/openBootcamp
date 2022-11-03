@@ -4,6 +4,8 @@ namespace OpenBootcamp
 {
     internal class Program
     {
+        /*
+        // Ejercicio de objetos numero 2
         // obj coche
         int puertas = 5;
         int ruedas = 4;
@@ -15,7 +17,7 @@ namespace OpenBootcamp
         int largo = 3;
         string material = "Madera";
         string color = "Blanca";
-
+        */
 
         static void Main(string[] args)
         {
@@ -157,6 +159,7 @@ namespace OpenBootcamp
             //Variables Escribe un programa que reciba datos de una persona y genera un mensaje, 
             //usa una variable para cada dato y otra para el mensaje. Ej: nombre, apellido, edad, sabe programar, etc.
 
+            /*
             Console.WriteLine("Ejercicio 1 Variables");
 
             Console.WriteLine("Introduce tu nombre: ");
@@ -220,7 +223,14 @@ namespace OpenBootcamp
             //-Se cumple una de dos condiciones a la vez (una true y otra false)
             Console.WriteLine(" True false: " + (numero1 < 15 && numero2 > 15));
             Console.WriteLine("True false: " + (numero1 < 9 && numero2 < 9));
-            
+            */
+
+            // ¿QUE SON LAS ESTRUCTURAS DE DATOS?
+            /*
+                -Datos del mismo tipo se pueden agrupar en colecciones
+                -Podemos usar metodos de colecciones para realizar operaciones de formas simple
+                -Evitamos errores y ahorramos tiempo
+             */
 
 
 
