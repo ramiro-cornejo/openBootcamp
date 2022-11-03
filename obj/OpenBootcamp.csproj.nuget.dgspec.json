@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\openBootcamp\\OpenBootcamp.csproj": {}
+    "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\OpenBootcamp\\OpenBootcamp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\openBootcamp\\OpenBootcamp.csproj": {
+    "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\OpenBootcamp\\OpenBootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\openBootcamp\\OpenBootcamp.csproj",
+        "projectUniqueName": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\OpenBootcamp\\OpenBootcamp.csproj",
         "projectName": "OpenBootcamp",
-        "projectPath": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\openBootcamp\\OpenBootcamp.csproj",
+        "projectPath": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\OpenBootcamp\\OpenBootcamp.csproj",
         "packagesPath": "C:\\Users\\crami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\openBootcamp\\obj\\",
+        "outputPath": "C:\\Users\\crami\\Source\\Repos\\ramiro-cornejo\\OpenBootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crami\\AppData\\Roaming\\NuGet\\NuGet.Config",
