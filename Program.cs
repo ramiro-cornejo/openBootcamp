@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace OpenBootcamp
 {
     internal class Program
@@ -225,15 +226,8 @@ namespace OpenBootcamp
             Console.WriteLine("True false: " + (numero1 < 9 && numero2 < 9));
             */
 
-            // ¿QUE SON LAS ESTRUCTURAS DE DATOS?
-            /*
-                -Datos del mismo tipo se pueden agrupar en colecciones
-                -Podemos usar metodos de colecciones para realizar operaciones de formas simple
-                -Evitamos errores y ahorramos tiempo
-             */
-
-
-
         }
     }
 }
+
+
